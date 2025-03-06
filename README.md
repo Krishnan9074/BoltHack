@@ -1,4 +1,4 @@
-
+#Project with which we Won the Intel Generative AI bolt hackathon , blog link by Intel : https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Neurological-Disorder-Diagnosis-using-Intel-AI-Solutions/post/1628383
 # Neuro Assist
 
 Neuro Assist
